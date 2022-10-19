@@ -37,6 +37,9 @@ github:
 twitter:
   username: twitter_username            # change to your twitter username
 
+linkedin:
+  username: hamzazk0@gmail.com # include linked in on row?
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
