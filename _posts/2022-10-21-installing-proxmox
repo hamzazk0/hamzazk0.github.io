@@ -6,13 +6,14 @@ categories: Homelab
 tags: homelab dell server software
 ---
 
-# Summary
+## Summary
+
 This is a summary of the process I went through for installing Proxmox on my new to me Dell T620. I followed the guide below published by Craft Computing.
 
 [![Craft Computing Proxmox Tutorial](https://img.youtube.com/vi/azORbxrItOo/0.jpg)](https://www.youtube.com/watch?v=azORbxrItOo "Craft Computing")
 
+## Steps
 
-# Steps
 1. Proxmox VE Installer
 2. 8GB drive to install iso to flash drive (Etcher)
 3. Boot to USB drive
@@ -27,6 +28,7 @@ This is a summary of the process I went through for installing Proxmox on my new
 12. Network-proxmox, ip, auth, proxmox share (disk image, iso image, container, container images)
 13. Local cannot store disk or iso images
 
-# Notes
-4. 2x PNY 120GB SSDs
-9. possible have a network shared disk that can be used to store vms from another location as opposed to loading them via usb every time
+## Notes
+
+1. (4) 2x PNY 120GB SSDs
+2. (9) possibly have a network shared disk that can be used to store vms from another location as opposed to loading them via usb every time
