@@ -4,7 +4,17 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Links
+LinkedIn
+Github
 
+# Education
+
+Bachelors in Electrical Engineering from Auburn University
+
+# Experience
+Practicing Electrical Engineer (September 2020 to Present)
+
+# Personal
+Experienced Computer Build
 ## This is a test addition to the page

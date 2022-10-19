@@ -23,10 +23,10 @@ timezone: America/New_York
 
 title: Hamza Khan                          # the main title
 
-tagline: Projects Documentation   # it will display as the sub-title
+tagline: Projects Documentation and Blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Documentation for current and future projects
+  Documentation and Blog for current and future projects
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://hamzazk0.github.io'
@@ -41,14 +41,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Hamza Khan
-  email: example@domain.com             # change to your email address
+  email: hamzazk0@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/hamzazk0       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/hamza-khan-ee
+    - https://www.linkedin.com/in/hamza-khan-ee
 
 google_site_verification:               # fill in to your verification string
 
