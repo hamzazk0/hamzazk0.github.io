@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dell T620 Server Receiving"
-date: 2022-10-19 17:00:00 -0500
+date: 2022-10-19 20:00:00 -0500
 categories: Homelab
 tags: homelab dell server hardware
 ---
