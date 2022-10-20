@@ -34,8 +34,8 @@ url: 'https://hamzazk0.github.io'
 github:
   username: hamzazk0             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#   username: twitter_username            # change to your twitter username
 
 linkedin:
   username: hamzazk0@gmail.com # include linked in on row?
