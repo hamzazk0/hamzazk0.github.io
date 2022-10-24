@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Installing Proxmox on Dell Server"
+title: "Homelab Progress with Proxmox"
 date: 2022-10-23 20:00:00 -0500
 categories: Homelab
-tags: homelab dell server software hardware
+tags: homelab hypervisor dell server software hardware
 ---
 
 ## Summary
