@@ -24,43 +24,43 @@ Q: Hardware CPU configuration
 
 H: 2x Xeon E5-2960
 
-A:
+A: 2x Xeon E5-2960
 
 Q: Hardware memory configuration
 
 H: 64GB between two CPUs
 
-A:
+A: 64GB between two CPUs mixed sticks (6 slots per CPU).
 
 Q: Hardware storage configuration
 
 H: 8x2TB (Note: Pictures look like its a 12 bay chassis)
 
-A: All present, status unknown
+A: All present, all working
 
 Q: Noise Level when running
 
 H: Loud at PSU at startup and then slows down
 
-A:
+A: Matches expectation, usuable in the same room. There are 6 fans (4 front, 2 rear) in the case all 92mm (probably) custom brackets and shroud
 
 Q: What is the CPU upgrade path?
 
 H: no known upgrade path
 
-A:
+A: unknown, check motherboard chipset.
 
 Q: What is the Memory upgrade path?
 
 H: Fill extra slots up to 768GB
 
-A:
+A: The ideal upgrade configuration is 96GB at (6x16GB) for the triple channel memory configuration of the Xeon CPUs.
 
 Q: Add extra expansion through PCIE
 
 H: 10GB networking, GPU for extra processing
 
-A:
+A: Upgrade for PCIE drives (separation from raid card)
 
 ## Notes
 
